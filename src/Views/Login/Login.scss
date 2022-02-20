@@ -1,0 +1,35 @@
+.login-background {
+    background-color: white;
+    width: 400px;
+    height: 600px;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 10px;
+    color: black;
+    .login-container {
+        padding: 20px;
+        .form-group {
+            margin-top: 10px;
+        }
+        .form-check {
+            margin: 10px 0px 0px 10px;
+        }
+        .forgot-password {
+            margin-top: 10px;
+            span {
+                font-size: 15px;
+            }
+        }
+        .login {
+            margin-top: 20px;
+            text-align: center;
+            .login-button {
+                width: 100%;
+                height: 50px;
+                border-radius: 10px;
+                border:none;
+                background-color: aquamarine;
+            }
+        }
+    }
+}

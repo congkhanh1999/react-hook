@@ -1,0 +1,20 @@
+.add-container {
+    margin: 20px auto;
+    border-radius: 10px;
+    background-color: white;
+    max-width: 500px;
+    height: 500px;
+    padding: 15px;
+    .add-title {
+        font-size: 20px;
+        text-align: center;
+    }
+    .add-input {
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+    }
+    .add-button{
+        border-radius: 10px;
+    }
+}

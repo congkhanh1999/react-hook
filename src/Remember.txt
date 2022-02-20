@@ -1,0 +1,18 @@
+State : là trạng thái của 1 component
+
+Dùng useState sẽ cập nhật đc giao diện
+
+
+Prop truyền dữ liệu qua các component (chỉ truyền đc từ cha xuống con)
+
+JSX : nhúng đc js trong html , dùng để render ra giao diện
+
+
+* Lifecycle 
+
+Mounting : Khi chèn html vào thẻ root
+Update : Khi cập nhật dữ liệu
+UnMounting : 
+
+Trong hook thì lifecycle sdung useEffect
+mỗi lần render lại sẽ gọi useEffect
